@@ -377,6 +377,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
 * [Cracking PHP Interviews Questions ebook 300+ Q&A](https://bootsity.com/books)
 * [PHP Interview Questions - Quick Refresher](https://www.techbeamers.com/latest-php-interview-questions-answers/)
+* [30+ PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
 
 ### Python
 
@@ -572,6 +573,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 * [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 * [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
+* [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
@@ -622,6 +624,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 ## Networks
 
 * [Top 100 Networking Interview Questions & Answers from Career Guru](http://career.guru99.com/top-100-networking-interview-questions-answers/)
+* [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
 ## Security
 
